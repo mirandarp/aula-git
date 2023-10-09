@@ -3,7 +3,7 @@
 Este é o meu arquivo. Ele contém algumas informações importantes sobre o projeto.
 
 ## Como usar
-![](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 
