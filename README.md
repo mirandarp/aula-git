@@ -4,6 +4,8 @@ Este é o meu arquivo. Ele contém algumas informações importantes sobre o pro
 
 ## Como usar
 ![](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 
 1. Faça o download do arquivo.🎁
 2. Abra o arquivo em um editor de texto.
