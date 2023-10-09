@@ -3,8 +3,9 @@
 Este é o meu arquivo. Ele contém algumas informações importantes sobre o projeto.
 
 ## Como usar
+![](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
 
-1. Faça o download do arquivo.
+1. Faça o download do arquivo.🎁
 2. Abra o arquivo em um editor de texto.
 3. Leia as informações contidas no arquivo.
 
